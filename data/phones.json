@@ -1,0 +1,35 @@
+[
+{
+"id": "pixel_8a",
+"brand": "Google",
+"model": "Pixel 8a",
+"price": 32999,
+"camera": "64MP OIS",
+"battery": "4492mAh",
+"charging": "18W",
+"display": "6.1 OLED",
+"size": "compact"
+},
+{
+"id": "oneplus_12r",
+"brand": "OnePlus",
+"model": "12R",
+"price": 28999,
+"camera": "50MP OIS",
+"battery": "5500mAh",
+"charging": "100W",
+"display": "6.78 AMOLED",
+"size": "large"
+},
+{
+"id": "samsung_a15",
+"brand": "Samsung",
+"model": "Galaxy A15",
+"price": 14999,
+"camera": "50MP",
+"battery": "5000mAh",
+"charging": "25W",
+"display": "6.5 AMOLED",
+"size": "medium"
+}
+]
